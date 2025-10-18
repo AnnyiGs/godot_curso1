@@ -7,6 +7,15 @@ Este repositorio contiene las capturas y notas de las prácticas (pra1..pra24) r
 Las capturas dentro de la carpeta `godot curso/` encontradas en este repositorio son (listado no exhaustivo):
 
 - `pra1.png`
+# godot_curso1
+
+Este repositorio contiene las capturas y notas de las prácticas (pra1..pra24) realizadas siguiendo el curso básico "Learn GDScript from Zero with Godot" (GDQuest). En la carpeta `godot curso/` están las imágenes tomadas durante cada práctica. Abajo hay un breve resumen de qué se trabajó en cada una.
+
+## Archivos de capturas encontrados
+
+Las capturas dentro de la carpeta `godot curso/` encontradas en este repositorio son (listado no exhaustivo):
+
+- `pra1.png`
 - `pra2.png`  (y `pra2'.png` — copia/duplicado)
 - `pra3.png`
 - `pra4.png`
@@ -152,12 +161,8 @@ Cada entrada contiene: objetivo corto y la captura asociada (si existe).
 	- Progreso completo: ![final](godot%20curso/final.png)
 	- Pantalla final del curso: ![completo](godot%20curso/completo.png)
 
-## Notas finales
-
-- Si quieres que los resúmenes de cada práctica sean más detallados (por ejemplo: fragmentos de código, nombres de nodos exactos o pasos concretos), dime y actualizo el README con más precisión.
-- También puedo mover/renombrar los archivos duplicados (por ejemplo `pra2'.png`) o añadir las capturas faltantes si las subes.
-
 ---
 
-Archivo generado/actualizado automáticamente: `README.md`
-# godot_curso1
+<div align="center">
+	<b>✨ OCHOA ORTEGA ANDREA J.</b><br>
+</div>
