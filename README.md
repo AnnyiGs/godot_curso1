@@ -1,13 +1,8 @@
-# godot_curso1
+# Curso Godot conceptos basicos
 
 Este repositorio contiene las capturas y notas de las prácticas (pra1..pra24) realizadas siguiendo el curso básico "Learn GDScript from Zero with Godot" (GDQuest). En la carpeta `godot curso/` están las imágenes tomadas durante cada práctica. Abajo hay un breve resumen de qué se trabajó en cada una.
 
-# godot_curso1
-
-Este repositorio contiene las capturas y notas de las prácticas (pra1..pra24) realizadas siguiendo el curso básico "Learn GDScript from Zero with Godot" (GDQuest). En la carpeta `godot curso/` están las imágenes tomadas durante cada práctica. Abajo hay un breve resumen de qué se trabajó en cada una.
-
-
-## Resumen por práctica (pra1 — pra24)
+## Resumen por práctica
 
 Cada entrada contiene: objetivo corto y la captura asociada (si existe).
 
